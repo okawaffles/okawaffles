@@ -2,5 +2,6 @@
 i've been learning react recently. i quite like react. it's probably gonna replace my express+ejs frontend stack here very shortly lol
 ### whatcha workin on?
 - okabot. basically all okabot. that's all i do. please try him https://invite.oka.bot
+- well, i'm actually working on something else, but it's a secret...
 ### i am open to commission work!
 please give me something better to do than work at my dead-end job
