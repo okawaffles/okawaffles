@@ -1,7 +1,6 @@
 ## hi, i'm okawaffles! i do things that i think are cool
-i've been learning react recently. i quite like react. it's probably gonna replace my express+ejs frontend stack here very shortly lol
+i like making fun things, but i just don't seem to have ideas!
 ### whatcha workin on?
 - okabot. basically all okabot. that's all i do. please try him https://invite.oka.bot
-- well, i'm actually working on something else, but it's a secret...
 ### i am open to commission work!
-please give me something better to do than work at my dead-end job
+i'm not so active these days, i don't feel my projects have a purpose, but i promise i still enjoy it just as much as i did years ago
